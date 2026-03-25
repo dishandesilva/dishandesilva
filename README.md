@@ -7,63 +7,79 @@ Software Engineering Undergraduate — Birmingham City University
 
 ## About
 
-I build software with a focus on structure, scalability, and real-world application.
+I craft software with a focus on **structure, scalability, and real-world impact**.  
 
-As the founder of Azureline, I work at the intersection of development and business — designing and delivering digital solutions that are not only technically sound, but aligned with practical use and long-term value.
+As the founder of Azureline, I operate at the intersection of **development, design, and business**, delivering solutions that are technically sound and aligned with practical use and long-term value.  
 
-My core strength lies in backend development with Java, supported by full-stack web development experience. Alongside my academic journey, I continuously explore better ways to design systems, write maintainable code, and approach problems with clarity.
+My core strength lies in **backend development with Java**, complemented by **full-stack web development** experience. Alongside my academic journey, I continually explore better ways to design systems, write maintainable code, and solve problems with clarity and precision.
 
 ---
 
 ## Technical Profile
 
 **Frontend**  
-HTML, CSS, JavaScript, Bootstrap  
+HTML · CSS · JavaScript · Bootstrap  
 
 **Backend**  
-Java (primary focus), PHP  
-Node.js (currently learning)  
+Java (primary focus) · PHP  
+Node.js (learning)  
+
+**Mobile**  
+React Native  
 
 **Database**  
 MySQL  
 
 ---
 
-## Development Environment
+## Development Environment & Tools
 
-Visual Studio Code · IntelliJ IDEA · NetBeans · Android Studio · Arduino IDE  
+**Code & IDEs:** Visual Studio Code · IntelliJ IDEA · NetBeans · Android Studio · Arduino IDE  
+**Version Control:** Git · GitHub  
 
-Version Control: Git & GitHub  
+**Design & Multimedia Tools:** Adobe Photoshop · Lightroom · Canva · CapCut  
 
-Additional Exposure: SolidWorks · Unity  
+**Additional Exposure:** SolidWorks · Unity  
 
----
-
-## Work & Direction
-
-**Azureline** is a startup focused on building modern web and software solutions with an emphasis on:
-
-- clean architecture  
-- scalable systems  
-- business-oriented development  
-
-My current work is centered around strengthening backend systems, improving development workflows, and building projects that reflect real-world software engineering practices.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,intellij,netbeans,androidstudio,arduino,photoshop,lightroom,canva,capcut,unity,solidworks,git,github" />
+</p>
 
 ---
 
-## Selected Focus Areas
+## Work & Focus
+
+**Azureline** — Building modern web and software solutions with:  
+
+- Clean architecture  
+- Scalable systems  
+- Business-oriented development  
+
+**Current Focus Areas:**  
 
 - Backend engineering with Java  
-- Full-stack web application development  
-- System design fundamentals  
-- Practical software architecture  
+- Full-stack web development  
+- System design & practical software architecture  
+- Developing real-world projects that reflect professional engineering practices  
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dishandesilva&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishandesilva&layout=compact" />
+</p>
 
 ---
 
 ## Contact
 
-Personal: dishandesilva.dev@gmail.com  
-Azureline: dishandesilva@theazureline.com  
+**Personal:** dishandesilva.dev@gmail.com  
+**Azureline:** dishandesilva@theazureline.com  
 
-LinkedIn: https://www.linkedin.com/in/dishan-desilva-lk  
-Website: https://theazureline.com
+LinkedIn: [https://www.linkedin.com/in/dishan-desilva-lk](https://www.linkedin.com/in/dishan-desilva-lk)  
+Website: [https://theazureline.com](https://theazureline.com)
