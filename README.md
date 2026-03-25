@@ -42,7 +42,7 @@ MySQL
 **Additional Exposure:** SolidWorks · Unity  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,androidstudio,arduino,photoshop,unity,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,intellij,netbeans,androidstudio,arduino,photoshop,lightroom,canva,unity,git,github,solidworks" />
 </p>
 
 ---
@@ -66,12 +66,20 @@ MySQL
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dishandesilva&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishandesilva&show_icons=true&theme=radical&hide_border=false&count_private=true&title_color=6CC4FF&icon_color=6CC4FF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishandesilva&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishandesilva&layout=compact&theme=radical&hide_border=false&title_color=6CC4FF&text_color=FFFFFF&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dishandesilva&label=Profile%20Views&color=6CC4FF&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dishandesilva.dishandesilva&left_color=6CC4FF&right_color=0D1117" />
 </p>
 
 ---
@@ -83,3 +91,7 @@ MySQL
 
 LinkedIn: [https://www.linkedin.com/in/dishan-desilva-lk](https://www.linkedin.com/in/dishan-desilva-lk)  
 Website: [https://theazureline.com](https://theazureline.com)
+
+---
+
+*Driven by precision, powered by code — building solutions that endure.*
