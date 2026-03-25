@@ -42,7 +42,7 @@ MySQL
 **Additional Exposure:** SolidWorks · Unity  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,intellij,netbeans,androidstudio,arduino,photoshop,lightroom,canva,capcut,unity,solidworks,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,androidstudio,arduino,photoshop,unity,git,github" />
 </p>
 
 ---
