@@ -78,10 +78,6 @@ MySQL
   <img src="https://komarev.com/ghpvc/?username=dishandesilva&label=Profile%20Views&color=6CC4FF&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dishandesilva.dishandesilva&left_color=6CC4FF&right_color=0D1117" />
-</p>
-
 ---
 
 ## Contact
