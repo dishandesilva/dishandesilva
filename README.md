@@ -9,9 +9,9 @@ Software Engineering Undergraduate — Birmingham City University
 
 I craft software with a focus on **structure, scalability, and real-world impact**.  
 
-As the founder of Azureline, I operate at the intersection of **development, design, and business**, delivering solutions that are technically sound and aligned with practical use and long-term value.  
+As the founder of Azureline, I operate at the intersection of **development, design, and business**, delivering solutions that are technically sound and aligned with long-term value.  
 
-My core strength lies in **backend development with Java**, complemented by **full-stack web development** experience. Alongside my academic journey, I continually explore better ways to design systems, write maintainable code, and solve problems with clarity and precision.
+My core strength lies in **backend engineering with Java**, supported by **full-stack web development**. I continuously refine how I design systems, write maintainable code, and build solutions that are practical, efficient, and production-ready.
 
 ---
 
@@ -34,12 +34,17 @@ MySQL
 
 ## Development Environment & Tools
 
-**Code & IDEs:** Visual Studio Code · IntelliJ IDEA · NetBeans · Android Studio · Arduino IDE  
-**Version Control:** Git · GitHub  
+**Code & IDEs:**  
+Visual Studio Code · IntelliJ IDEA · NetBeans · Android Studio · Arduino IDE  
 
-**Design & Multimedia Tools:** Adobe Photoshop · Lightroom · Canva · CapCut  
+**Version Control:**  
+Git · GitHub  
 
-**Additional Exposure:** SolidWorks · Unity  
+**Design & Multimedia Tools:**  
+Adobe Photoshop · Lightroom · Canva · CapCut  
+
+**Additional Exposure:**  
+SolidWorks · Unity  
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,php,nodejs,mysql,react,vscode,androidstudio,arduino,photoshop,unity,git,github" />
@@ -49,18 +54,28 @@ MySQL
 
 ## Work & Focus
 
-**Azureline** — Building modern web and software solutions with:  
+🚀 **Azureline** — Building modern web and software solutions:
 
 - Clean architecture  
 - Scalable systems  
 - Business-oriented development  
 
-**Current Focus Areas:**  
+🎯 **Current Focus Areas:**
 
 - Backend engineering with Java  
 - Full-stack web development  
 - System design & practical software architecture  
-- Developing real-world projects that reflect professional engineering practices  
+- Developing real-world, production-ready projects  
+
+---
+
+## 🌐 Digital Presence
+
+**Portfolio Website**  
+https://dishandesilva.kesug.com  
+
+**Company Website (Azureline)**  
+https://theazureline.com  
 
 ---
 
@@ -82,13 +97,12 @@ MySQL
 
 ## Contact
 
-**Personal:** dishandesilva.dev@gmail.com  
-**Azureline:** dishandesilva@theazureline.com  
+📩 **Personal:** dishandesilva.dev@gmail.com  
+🏢 **Azureline:** dishandesilva@theazureline.com  
 
-LinkedIn: [https://www.linkedin.com/in/dishan-desilva-lk](https://www.linkedin.com/in/dishan-desilva-lk)  
-Portfolio Website: [https://dishandesilva.kesug.com](https://dishandesilva.kesug.com)
-Company Website: [https://theazureline.com](https://theazureline.com)
+🔗 LinkedIn  
+https://www.linkedin.com/in/dishan-desilva-lk  
 
 ---
 
-*Driven by precision, powered by code — building solutions that endure.*
+*Engineered with precision. Built for longevity.*
